@@ -1,0 +1,3 @@
+Cuando consulto la ruta GET /reportes, el servidor devuelve todos los reportes registrados previamente mediante la ruta POST.
+
+Los datos se almacenan temporalmente en un array llamado reportes y se muestran en formato JSON.
